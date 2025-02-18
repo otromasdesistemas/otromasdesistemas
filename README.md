@@ -53,10 +53,10 @@ I-am-vishalmaurya@github
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.galgodevv@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-pratissoli-22941b236/)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS1vIKbN3MK00qGfr9Y9z_A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@otromasdesistemas)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otromasdesistemas/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/otrodesistemas)
-
+<br>
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS1vIKbN3MK00qGfr9Y9z_A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@otromasdesistemas)
 
 
   
