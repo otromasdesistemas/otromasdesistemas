@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Fullstack+Developer;YOUTUBE:|Otro Más De Sistmas|%2070k%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhtdmhjN2Z3aG9waTh0eGZkMjFyb3dydTU0amd2ODNhNmtrMnNiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mZoOe2CWoeha/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="206" />
