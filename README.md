@@ -2,9 +2,11 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhtdmhjN2Z3aG9waTh0eGZkMjFyb3dydTU0amd2ODNhNmtrMnNiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mZoOe2CWoeha/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="206" />
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20Fullstack%20Web%20Developer;Youtube:%20Otro%20Mas%20de%20Sistemas&center=true&width=500&height=50">
+  </a>
+</p>
 
 ```
 I-am-vishalmaurya@github
