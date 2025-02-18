@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></h1>
+<h1 align="center">Hi , I'm Ezequiel Pratissoli <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhtdmhjN2Z3aG9waTh0eGZkMjFyb3dydTU0amd2ODNhNmtrMnNiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mZoOe2CWoeha/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="206" />
